@@ -28,17 +28,62 @@
 <div>
 
 
-| Image 1 | Image 2 | Image 3 | Image 4 |
-|---------|---------|---------|---------|
-| ![Alt text](ATTESTATION_CSS_page-0001.jpg) | ![Alt text](CERTIFICATION_C_page-0001.jpg) | ![Alt text](CERTIFICATION_GRAPHISM.jpg) | ![Alt text](CERTIFICATION_INTRO_HTML_page-0001.jpg) |
+| HTML |
+|---------|
+| ![Alt text](<CERTIFICATION INTRO HTML_page-0001.jpg>) |
 
-| Image 5 | Image 6 | Image 7 | Image 8 |
-|---------|---------|---------|---------|
-| ![Alt text](CERTIFICATION_NOTION_page-0001.jpg) | ![Alt text](CERTIFICATION_PHP_page-0001.jpg) | ![Alt text](CERTIFICATION_SEO_GOOGLE_RESERCH.jpeg) | ![Alt text](CERTIFICATION_SQL_page-0001.jpg) |
 
-| Image 9 | Image 10 | Image 11 |
-|---------|----------|----------|
-| ![Alt text](CERTIFICATION_WEB_FONDAMENTALES_page-0001.jpg) | ![Alt text](CERTIFICATION_WORDPRESS.jpeg) | ![Alt text](Fondamentaux_du_marketing_numérique_page-0001.jpg) |
+| CSS  |
+|---------|
+| ![Alt text](<ATTESTATION CSS_page-0001.jpg>) |
+
+| WEB FONDAMENTALES  |
+|---------|
+| ![Alt text](<CERTIFICATION WEB FONDAMENTALES_page-0001.jpg>) |
+
+| PHP  |
+|---------|
+| ![Alt text](<CERTIFICATION PHP_page-0001.jpg>) |
+
+| C  |
+|---------|
+| ![Alt text](<CERTIFICATION C_page-0001.jpg>) |
+
+| SEO   |
+|---------|
+| ![Alt text](<CERTIFICATION SEO GOOGLE RESERCH.jpeg>) |
+
+
+
+| SQL  |
+|---------|
+| README.md ![Alt text](<CERTIFICATION SQL_page-0001.jpg>) |
+
+
+
+| WORDPRESS  |
+|----------|
+| ![Alt text](<CERTIFICATION WORDPRESS.jpeg>) |
+
+| DIGITAL MARKETING  |
+|----------|
+| ![Alt text](<Fondamentaux du marketing numérique_page-0001.jpg>) |
+
+
+| GRAPHISM  |
+|---------|
+| ![Alt text](<CERTIFICATION GRAPHISM.jpg>) |
+
+
+| NOTION  |
+|---------|
+| ![Alt text](<CERTIFICATION NOTION_page-0001.jpg>) |
+
+
+
+
+
+
 
 
 </div>
