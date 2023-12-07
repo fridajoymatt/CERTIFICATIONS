@@ -57,7 +57,7 @@
 
 | SQL  |
 |---------|
-| README.md ![Alt text](<CERTIFICATION SQL_page-0001.jpg>) |
+| ![Alt text](<CERTIFICATION SQL_page-0001.jpg>) |
 
 
 
